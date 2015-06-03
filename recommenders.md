@@ -20,6 +20,9 @@
   * [Collaborative filtering for implicit feedback datasets](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.167.5120) by Yifan Hu, Yehuda Koren, Chris Volinsky
   * [Scalable Collaborative Filtering with Jointly Derived Neighborhood Interpolation Weights](http://public.research.att.com/~volinsky/netflix/BellKorICDM07.pdf) by Robert M. Bell and Yehuda Koren
   * [Latent Semantic Models for Collaborative filtering](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.331.3636) by Thomas Hofmann
+  * [Alternating least squares for personalized ranking](http://dl.acm.org/citation.cfm?id=2365972) by Gábor Takács and Domonkos Tikk
+  * [Statistical Properties of Alternating Least Squares Estimators of a Collaborative Filtering Model](http://userpages.umbc.edu/~gobbert/papers/CurtisUMBCReview2011.pdf) by Curtis et al.
+  * [Matrix Factorization Techniques for Recommender Systems](http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf) by Koren, Bell and Volinsky
 
 4. *Tutorials and Courses*
   * [Recommender Systems (Machine Learning Summer School 2014 @ CMU)](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu) by Xavier Amatriain
