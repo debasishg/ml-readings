@@ -23,6 +23,7 @@
   * [Alternating least squares for personalized ranking](http://dl.acm.org/citation.cfm?id=2365972) by Gábor Takács and Domonkos Tikk
   * [Statistical Properties of Alternating Least Squares Estimators of a Collaborative Filtering Model](http://userpages.umbc.edu/~gobbert/papers/CurtisUMBCReview2011.pdf) by Curtis et al.
   * [Matrix Factorization Techniques for Recommender Systems](http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf) by Koren, Bell and Volinsky
+  * [Probabilistic Matrix Factorization](http://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf) by Ruslan Salakhutdinov and Andriy Mnih
 
 4. *Tutorials and Courses*
   * [Recommender Systems (Machine Learning Summer School 2014 @ CMU)](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu) by Xavier Amatriain
