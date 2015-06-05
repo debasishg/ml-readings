@@ -25,8 +25,10 @@
   * [Matrix Factorization Techniques for Recommender Systems](http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf) by Koren, Bell and Volinsky
   * [Probabilistic Matrix Factorization](http://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf) by Ruslan Salakhutdinov and Andriy Mnih
 
-4. *Tutorials and Courses*
+4. *Tutorials, Blog Posts and Courses*
   * [Recommender Systems (Machine Learning Summer School 2014 @ CMU)](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu) by Xavier Amatriain
   * [Kdd 2014 Tutorial - the recommender problem revisited](http://www.slideshare.net/xamat/kdd-2014-tutorial-the-recommender-problem-revisited) by Xavier Amatriain
   * [Recommending Items to Users: An Explore Exploit Perspective](http://www.ueo-workshop.com/wp-content/uploads/2013/10/UEO-Deepak.pdf) by Deepak Agarwal
+  * [Recommending items to more than a billion people](https://code.facebook.com/posts/861999383875667/recommending-items-to-more-than-a-billion-people/) by Facebook
+  * [Collaborative filtering with GraphChi](http://bickson.blogspot.in/2012/12/collaborative-filtering-with-graphchi.html)
   
