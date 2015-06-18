@@ -72,6 +72,7 @@
   * [Course Notes - Stanford Machine Learning by Andrew Ng](http://www.holehouse.org/mlclass/index.html)
   * [A Tutorial on Principal Components Analysis](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) by Lindsay I Smith
   * [Statistical Machine Learning](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) by Larry Wasserman
+  * [Machine Learning for Computer Vision](http://www.computervisiontalks.com/tag/ml-for-computer-vision-course/) by Rudolph Triebel
 
 8. *General*
   * [Distilling the Knowledge in a Neural Network](http://arxiv.org/abs/1503.02531) by Geoffrey Hinton, Oriol Vinyals, Jeff Dean
