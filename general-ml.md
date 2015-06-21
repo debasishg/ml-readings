@@ -88,3 +88,10 @@
 10. *Conditional Random Fields*
   * [Log-linear Models and Conditional Random Fields](http://videolectures.net/cikm08_elkan_llmacrf/) by Charles Elkan (video)
   * [Log-linear models and conditional random fields - notes](http://www.cs.columbia.edu/~smaskey/CS6998-0412/supportmaterial/cikmtutorial.pdf) by Charles Elkan
+
+11. *Topic Models*
+  * [Probabilistic Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David M Blei
+  * [Visualizing Topic Models](http://ajbc.io/projects/papers/ChaneyBlei2012.pdf) by Allison J.B. Chaney and David M. Blei
+  * [Latent Dirichlet Allocation](http://www.cs.stanford.edu/people/ang//papers/nips01-lda.pdf) by Blei, Ng and Jordan
+  * [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) by Blei, Ng and Jordan
+  * [Automatic Topic Modelling with LDA](http://engineering.intenthq.com/2015/02/automatic-topic-modelling-with-lda/)
