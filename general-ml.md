@@ -91,6 +91,8 @@
 11. *Conditional Random Fields*
   * [Log-linear Models and Conditional Random Fields](http://videolectures.net/cikm08_elkan_llmacrf/) by Charles Elkan (video)
   * [Log-linear models and conditional random fields - notes](http://www.cs.columbia.edu/~smaskey/CS6998-0412/supportmaterial/cikmtutorial.pdf) by Charles Elkan
+  * [Conditional Random Fields - pointers](http://www.inference.phy.cam.ac.uk/hmw26/crf/) by Hanna M Wallach
+  * [Machine Learning for Sequential Data: A Review](http://web.engr.oregonstate.edu/~tgd/publications/mlsd-ssspr.pdf) by Thomas G. Dietterich
 
 12. *Topic Models*
   * [Probabilistic Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf) by David M Blei
