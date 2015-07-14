@@ -73,7 +73,6 @@
   * [Kdd 2014 Tutorial - the recommender problem revisited](http://www.slideshare.net/xamat/kdd-2014-tutorial-the-recommender-problem-revisited) by Xavier Amatriain
   * [Machine Learning 2014-15 at Oxford University](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   * [Course Notes - Stanford Machine Learning by Andrew Ng](http://www.holehouse.org/mlclass/index.html)
-  * [A Tutorial on Principal Components Analysis](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) by Lindsay I Smith
   * [Statistical Machine Learning](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) by Larry Wasserman
   * [Machine Learning for Computer Vision](http://www.computervisiontalks.com/tag/ml-for-computer-vision-course/) by Rudolph Triebel
 
@@ -81,12 +80,13 @@
   * [Distilling the Knowledge in a Neural Network](http://arxiv.org/abs/1503.02531) by Geoffrey Hinton, Oriol Vinyals, Jeff Dean
   * [A Random Forest Guided Tour](http://www.lsta.upmc.fr/BIAU/bs.pdf) by Biau & Scornet
 
-10. *MCMC*
+10. *MCMC and Variational Inference*
   * [Markov Chain Monte Carlo Without all the Bullshit](http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
   * [How would you explain Markov Chain Monte Carlo (MCMC) to a layperson?](http://stats.stackexchange.com/questions/165/how-would-you-explain-markov-chain-monte-carlo-mcmc-to-a-layperson)
   * [iTunes The Data Skeptic Podcast](https://itunes.apple.com/us/podcast/mini-markov-chain-monte-carlo/id890348705?i=339051856&mt=2)
   * [An Introduction to MCMC for Machine Learning](http://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf) by Christophe Andrieu, Nando De Freitas, Arnaud Daucet and Michael Jordan
   * [The Markov Chain Monte Carlo Revolution](http://statweb.stanford.edu/~cgates/PERSI/papers/MCMCRev.pdf) by Persi Diaconis
+  * [A Tutorial on Variational Inference presented at ICML 2015](http://shakirm.com/papers/VITutorial.pdf) by Shakir Mohamed
  
 11. *Conditional Random Fields*
   * [Log-linear Models and Conditional Random Fields](http://videolectures.net/cikm08_elkan_llmacrf/) by Charles Elkan (video)
@@ -100,3 +100,7 @@
   * [Latent Dirichlet Allocation](http://www.cs.stanford.edu/people/ang//papers/nips01-lda.pdf) by Blei, Ng and Jordan
   * [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) by Blei, Ng and Jordan
   * [Automatic Topic Modelling with LDA](http://engineering.intenthq.com/2015/02/automatic-topic-modelling-with-lda/)
+
+13. *Principal Component Analysis*
+  * [A Tutorial on Principal Components Analysis](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) by Lindsay I Smith
+  * [A Tutorial on Principal Components Analysis](http://arxiv.org/pdf/1404.1100.pdf) by Jonathon Shlens (they call it the best)
