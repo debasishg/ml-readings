@@ -61,6 +61,9 @@
   * [Weak Learning, Boosting, and the AdaBoost algorithm](http://jeremykun.com/2015/05/18/boosting-census/)
   * [Probably Approximately Correct — a Formal Theory of Learning](http://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/)
   * [Making sense of principal component analysis, eigenvectors & eigenvalues](http://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
+  * [A Step by Step Backpropagation example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+  * [Covariance Matrices and Data Distributions](https://theclevermachine.wordpress.com/2013/03/29/covariance-matrices-and-data-distributions/)
+  *[The Statistical Whitening Transform](https://theclevermachine.wordpress.com/2013/03/30/the-statistical-whitening-transform/)
 
 8. *Interesting courses and tutorials* 
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) at Stanford by Andrej Karpathy
@@ -79,6 +82,7 @@
 9. *General*
   * [Distilling the Knowledge in a Neural Network](http://arxiv.org/abs/1503.02531) by Geoffrey Hinton, Oriol Vinyals, Jeff Dean
   * [A Random Forest Guided Tour](http://www.lsta.upmc.fr/BIAU/bs.pdf) by Biau & Scornet
+  * [Understanding Random Forests - From Theory to Practice](http://arxiv.org/pdf/1407.7502v3.pdf) by Gilles Louppe
 
 10. *MCMC and Variational Inference*
   * [Markov Chain Monte Carlo Without all the Bullshit](http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
@@ -87,6 +91,7 @@
   * [An Introduction to MCMC for Machine Learning](http://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf) by Christophe Andrieu, Nando De Freitas, Arnaud Daucet and Michael Jordan
   * [The Markov Chain Monte Carlo Revolution](http://statweb.stanford.edu/~cgates/PERSI/papers/MCMCRev.pdf) by Persi Diaconis
   * [A Tutorial on Variational Inference presented at ICML 2015](http://shakirm.com/papers/VITutorial.pdf) by Shakir Mohamed
+  * [MCMC - The Gibbs Sampler](https://theclevermachine.wordpress.com/2012/11/05/mcmc-the-gibbs-sampler/)
  
 11. *Conditional Random Fields*
   * [Log-linear Models and Conditional Random Fields](http://videolectures.net/cikm08_elkan_llmacrf/) by Charles Elkan (video)
