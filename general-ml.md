@@ -80,6 +80,8 @@
   * [Machine Learning for Computer Vision](http://www.computervisiontalks.com/tag/ml-for-computer-vision-course/) by Rudolph Triebel
   * [MIT Machine Learning Fall 2004](http://www.ai.mit.edu/courses/6.867-f04/lectures.html)
   * [MIT Machine Learning Fall 2006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+  * [CMU Statistical Machine Learning Spring 2015 by Tibshirani & Wasserman](http://www.stat.cmu.edu/~larry/=sml/)
+  * [CMU Machine Learning Spring 2015 by Alex Smola](http://www.computervisiontalks.com/tag/machine-learning-class-10-701/)
 
 9. *General*
   * [Distilling the Knowledge in a Neural Network](http://arxiv.org/abs/1503.02531) by Geoffrey Hinton, Oriol Vinyals, Jeff Dean
