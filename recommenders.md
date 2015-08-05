@@ -25,6 +25,7 @@
   * [Matrix Factorization Techniques for Recommender Systems](http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf) by Koren, Bell and Volinsky
   * [Probabilistic Matrix Factorization](http://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf) by Ruslan Salakhutdinov and Andriy Mnih
   * [Collaborative Filtering: A Machine Learning Perspective](https://people.cs.umass.edu/~marlin/research/thesis/cfmlp.pdf) by Benjamin Marlin
+  * [SLIM: Sparse Linear Models for Top-N Recommender Systems](http://www-users.cs.umn.edu/~xning/papers/Ning2011c.pdf) by Xia Ning and George Karypis
 
 4. *Tutorials, Blog Posts and Courses*
   * [Recommender Systems (Machine Learning Summer School 2014 @ CMU)](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu) by Xavier Amatriain
