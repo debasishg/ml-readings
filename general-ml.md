@@ -44,7 +44,7 @@
   * [Mathematical Intuition for Performance of Rectified Linear Unit in Deep Neural Networks](https://www.academia.edu/7826776/Mathematical_Intuition_for_Performance_of_Rectified_Linear_Unit_in_Deep_Neural_Networks) by Alexandre Dalyec
 
 7. *Interesting blog posts and presentations*
-  * [Hacker's Guide to Neural Networks](https://karpathy.github.io/neuralnets/) by Andrej Karpathy
+  * [Hacker''s Guide to Neural Networks](https://karpathy.github.io/neuralnets/) by Andrej Karpathy
   * [Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/) by Andrej Karpathy
   * [Classifying plankton with Deep Neural Networks](http://benanne.github.io/2015/03/17/plankton.html)
   * [Deep stuff about deep learning?](https://blogs.princeton.edu/imabandit/2015/03/20/deep-stuff-about-deep-learning/)
@@ -63,7 +63,9 @@
   * [Making sense of principal component analysis, eigenvectors & eigenvalues](http://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
   * [A Step by Step Backpropagation example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
   * [Covariance Matrices and Data Distributions](https://theclevermachine.wordpress.com/2013/03/29/covariance-matrices-and-data-distributions/)
-  *[The Statistical Whitening Transform](https://theclevermachine.wordpress.com/2013/03/30/the-statistical-whitening-transform/)
+  * [The Statistical Whitening Transform](https://theclevermachine.wordpress.com/2013/03/30/the-statistical-whitening-transform/)
+  * [Machine Learning Summer School 2014 @ CMU - the complete playlist](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQCIYxE3ycGLXHMjK3XV7Iz)
+  * [Machine Learning Summer School 2011 @ Purdue - the complete playlist](https://www.youtube.com/playlist?list=PL2A65507F7D725EFB)
 
 8. *Interesting courses and tutorials* 
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) at Stanford by Andrej Karpathy

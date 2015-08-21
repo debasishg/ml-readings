@@ -28,9 +28,10 @@
   * [SLIM: Sparse Linear Models for Top-N Recommender Systems](http://www-users.cs.umn.edu/~xning/papers/Ning2011c.pdf) by Xia Ning and George Karypis
 
 4. *Tutorials, Blog Posts and Courses*
-  * [Recommender Systems (Machine Learning Summer School 2014 @ CMU)](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu) by Xavier Amatriain
+  * [Recommender Systems (Machine Learning Summer School 2014 @ CMU)](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu) also [a 4 hours of video](http://technocalifornia.blogspot.in/2014/08/introduction-to-recommender-systems-4.html) by Xavier Amatriain
   * [Kdd 2014 Tutorial - the recommender problem revisited](http://www.slideshare.net/xamat/kdd-2014-tutorial-the-recommender-problem-revisited) by Xavier Amatriain
   * [Recommending Items to Users: An Explore Exploit Perspective](http://www.ueo-workshop.com/wp-content/uploads/2013/10/UEO-Deepak.pdf) by Deepak Agarwal
   * [Recommending items to more than a billion people](https://code.facebook.com/posts/861999383875667/recommending-items-to-more-than-a-billion-people/) by Facebook
   * [Collaborative filtering with GraphChi](http://bickson.blogspot.in/2012/12/collaborative-filtering-with-graphchi.html)
+  * [Building the Next New York Times Recommendation Engine](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
   
