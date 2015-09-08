@@ -66,6 +66,11 @@
   * [The Statistical Whitening Transform](https://theclevermachine.wordpress.com/2013/03/30/the-statistical-whitening-transform/)
   * [Machine Learning Summer School 2014 @ CMU - the complete playlist](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQCIYxE3ycGLXHMjK3XV7Iz)
   * [Machine Learning Summer School 2011 @ Purdue - the complete playlist](https://www.youtube.com/playlist?list=PL2A65507F7D725EFB)
+  * [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
+  * [On chain rule, computational graphs, and backpropagation](http://outlace.com/Computational-Graph/)
+  * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+  * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
 
 8. *Interesting courses and tutorials* 
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) at Stanford by Andrej Karpathy
