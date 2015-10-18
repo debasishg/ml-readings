@@ -7,6 +7,7 @@
   * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) – Boyd and Vandenberghe - downloadable book
   * [Convex Optimization Theory](http://www.athenasc.com/convexduality.html) - by Dimitri P. Bertsekas
   * [Theory of Convex Optimization for Machine Learning](https://blogs.princeton.edu/imabandit/2014/05/16/theory-of-convex-optimization-for-machine-learning/) - downloadable book by Sebastien Bubeck 
+  * [Introduction to Online Convex Optimization](http://ocobook.cs.princeton.edu/) by Elad Hazan
 3. [Ben Recht's talk on Optimization at Simons Institute](http://simons.berkeley.edu/talks/ben-recht-2013-09-04)
 4. [The Zen of Gradient Descent](http://mrtz.org/blog/the-zen-of-gradient-descent/) - a blog post that contains useful information on convex optimization
 
