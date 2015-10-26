@@ -19,12 +19,14 @@
   * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710) by Xiang Zhang, Yann LeCun
   * [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf) by Yoshua Bengio
   * [Deep Learning - a review article that appeared in Nature](http://sci-hub.org/downloads/d397/lecun2015.pdf) by Yann LeCun, Yoshua Bengio & Geoffrey Hinton
+  * [Very deep convolutional networks for large scale image recognition](http://arxiv.org/pdf/1409.1556.pdf) by Karen Simonyan & Andrew Zisserman 
 
 3. *Recurrent Neural Nets*
   * [On the difficulty of training Recurrent Neural Networks](http://arxiv.org/pdf/1211.5063v2.pdf) by Razvan Pascanu, Tomas Mikolov and Yoshua Bengio
   * [Training Recurrent Neural Networks](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) Phd thesis of Ilya Sutskever
   * [A Critical Review of Recurrent Neural Networks for Sequence Learning](http://arxiv.org/pdf/1506.00019v1.pdf) by Zachary C. Lipton
   * [On Recurrent and Deep Neural Networks](http://www-etud.iro.umontreal.ca/~pascanur/papers/thesis.pdf) Phd thesis of Razvan Pascanu
+  * [Gradient-Based Learning Algorithms for Recurrent Networks and Their Computational Complexity](https://web.stanford.edu/class/psych209a/ReadingsByDate/02_25/Williams%20Zipser95RecNets.pdf) by Ronald J. Williams and David Zipser
   
 4. *Scalable Machine Learning*
   * [Bring the Noise: Embracing Randomness is the Key to Scaling Up Machine Learning Algorithms](http://online.liebertpub.com/doi/pdf/10.1089/big.2013.0010) by Brian Delssandro
@@ -38,6 +40,8 @@
 5. *Gradient based Training*
   * [Practical Recommendations for Gradient-Based Training of Deep Architectures](http://arxiv.org/pdf/1206.5533v2.pdf) by Yoshua Bengio
   * [Stochastic Gradient Descent Tricks](http://research.microsoft.com/pubs/192769/tricks-2012.pdf) by L´eon Bottou
+  * [Accelerating Stochastic Gradient Descent via Online Learning to Sample](http://arxiv.org/pdf/1506.09016v1.pdf) by Guillaume Bouchard, Theo Trouillon, Julien Perez, Adrien Gaidon
+  * [Train faster, generalize better: Stability of stochastic gradient descent](http://arxiv.org/abs/1509.01240#) by Moritz Hardt, Benjamin Recht, Yoram Singer
 
 6. *Non Linear Units*
   * [Rectified Linear Units Improve Restricted Boltzmann Machines](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.6419&rep=rep1&type=pdf) by Nair & Hinton
@@ -71,6 +75,7 @@
   * [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
   * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
+  * [Demystifying LSTM neural networks](http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
 
 8. *Interesting courses and tutorials* 
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) at Stanford by Andrej Karpathy
