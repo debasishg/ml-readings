@@ -76,6 +76,8 @@
   * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
   * [Demystifying LSTM neural networks](http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
+  * [Crash course on Learning Theory Part 1](https://blogs.princeton.edu/imabandit/2015/10/13/crash-course-on-learning-theory-part-1/)
+  * [Crash course on Learning Theory Part 2](https://blogs.princeton.edu/imabandit/2015/10/22/crash-course-on-learning-theory-part-2/)
 
 8. *Interesting courses and tutorials* 
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) at Stanford by Andrej Karpathy
@@ -94,6 +96,7 @@
   * [MIT Machine Learning Fall 2006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
   * [CMU Statistical Machine Learning Spring 2015 by Tibshirani & Wasserman](http://www.stat.cmu.edu/~larry/=sml/)
   * [CMU Machine Learning Spring 2015 by Alex Smola](http://www.computervisiontalks.com/tag/machine-learning-class-10-701/)
+  * [IISc Statistical Learning Theory Fall 2013 by Shivani Agarwal](http://www.shivani-agarwal.net/Teaching/E0370/Aug-2013/index.html)
 
 9. *General*
   * [Distilling the Knowledge in a Neural Network](http://arxiv.org/abs/1503.02531) by Geoffrey Hinton, Oriol Vinyals, Jeff Dean
