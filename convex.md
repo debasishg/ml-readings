@@ -10,4 +10,4 @@
   * [Introduction to Online Convex Optimization](http://ocobook.cs.princeton.edu/) by Elad Hazan
 3. [Ben Recht's talk on Optimization at Simons Institute](http://simons.berkeley.edu/talks/ben-recht-2013-09-04)
 4. [The Zen of Gradient Descent](http://mrtz.org/blog/the-zen-of-gradient-descent/) - a blog post that contains useful information on convex optimization
-
+5. [Convex Optimization: Algorithms and Complexity](http://arxiv.org/pdf/1405.4980.pdf) by Sébastien Bubeck
