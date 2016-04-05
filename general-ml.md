@@ -129,3 +129,7 @@
 13. *Principal Component Analysis*
   * [A Tutorial on Principal Components Analysis](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) by Lindsay I Smith
   * [A Tutorial on Principal Components Analysis](http://arxiv.org/pdf/1404.1100.pdf) by Jonathon Shlens (they call it the best)
+
+14. *Reinforcement Learning*
+  * [Demystifying Deep Reinforcement Learning](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
+  * [Deep Reinforcement Learning with Neon](http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/) by Tambet Matiisen
