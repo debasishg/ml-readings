@@ -133,3 +133,4 @@
 14. *Reinforcement Learning*
   * [Demystifying Deep Reinforcement Learning](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
   * [Deep Reinforcement Learning with Neon](http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/) by Tambet Matiisen
+  * [Reinforcement Learning Course](https://www.youtube.com/playlist?list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa) by David Silver (Deep Mind)
