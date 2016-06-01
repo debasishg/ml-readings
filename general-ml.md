@@ -133,4 +133,9 @@
 14. *Reinforcement Learning*
   * [Demystifying Deep Reinforcement Learning](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
   * [Deep Reinforcement Learning with Neon](http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/) by Tambet Matiisen
-  * [Reinforcement Learning Course](https://www.youtube.com/playlist?list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa) by David Silver (Deep Mind)
+  * [Reinforcement Learning Course](https://www.youtube.com/playlist?list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa) and [lectures](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) by David Silver (Deep Mind)
+  * [Dueling Deep Q-Networks](http://torch.ch/blog/2016/04/30/dueling_dqn.html) from Torch blog
+  * [Series of 4 lectures on deep reinforcement learning](https://www.youtube.com/watch?v=oPGVsoBonLM) by John Schulman
+  * [learning to do laps with reinforcement learning and neural nets](http://matpalm.com/blog/drivebot/) by Mat Kelcey
+  * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy
+ 
