@@ -138,4 +138,5 @@
   * [Series of 4 lectures on deep reinforcement learning](https://www.youtube.com/watch?v=oPGVsoBonLM) by John Schulman
   * [learning to do laps with reinforcement learning and neural nets](http://matpalm.com/blog/drivebot/) by Mat Kelcey
   * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy
+  * [Deep Reinforcement Learning Tutorial at ICML 2016](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) by David Silver (Deep Mind)
  
