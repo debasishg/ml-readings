@@ -141,4 +141,5 @@
   * [Deep Reinforcement Learning Tutorial at ICML 2016](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) by David Silver (Deep Mind)
   * [A comprehensive approach to reinforcement learning](http://blog.deeprobotics.es/robots,/ai,/deep/learning,/rl,/reinforcement/learning/2016/07/10/rl-tutorial/)
   * [An Introduction to Contextual Bandits](http://blog.getstream.io/introduction-contextual-bandits/)
+  * [Tutorial on Reinforcement Learning at ICML 2016](http://techtalks.tv/talks/deep-reinforcement-learning/62360/) by David Silver
  
