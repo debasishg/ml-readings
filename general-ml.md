@@ -142,4 +142,6 @@
   * [A comprehensive approach to reinforcement learning](http://blog.deeprobotics.es/robots,/ai,/deep/learning,/rl,/reinforcement/learning/2016/07/10/rl-tutorial/)
   * [An Introduction to Contextual Bandits](http://blog.getstream.io/introduction-contextual-bandits/)
   * [Tutorial on Reinforcement Learning at ICML 2016](http://techtalks.tv/talks/deep-reinforcement-learning/62360/) by David Silver
+  * [Little tutorial on RL using gym and keras](https://keon.io/rl/deep-q-learning-with-keras-and-gym/) [Code](https://github.com/keon/deep-q-learning)
+  * [CS 294: Deep Reinforcement Learning, Spring 2017 at Berkeley](http://rll.berkeley.edu/deeprlcourse/)
  
