@@ -148,6 +148,7 @@
 Learning to Stochastic Computation Graphs (Phd thesis of John Shulman)](http://joschu.net/docs/thesis.pdf)
   * [Beating the World's Best at Super Smash Bros. with Deep Reinforcement Learning](https://arxiv.org/abs/1702.06230)
   * [Learning To Reinforcement Learn](https://arxiv.org/pdf/1611.05763v3.pdf) - a DeepMind paper
+  * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274) - Yuxi Li
 
 
  
