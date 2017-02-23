@@ -144,4 +144,10 @@
   * [Tutorial on Reinforcement Learning at ICML 2016](http://techtalks.tv/talks/deep-reinforcement-learning/62360/) by David Silver
   * [Little tutorial on RL using gym and keras](https://keon.io/rl/deep-q-learning-with-keras-and-gym/) [Code](https://github.com/keon/deep-q-learning)
   * [CS 294: Deep Reinforcement Learning, Spring 2017 at Berkeley](http://rll.berkeley.edu/deeprlcourse/)
+  * [Optimizing Expectations: From Deep Reinforcement
+Learning to Stochastic Computation Graphs (Phd thesis of John Shulman)](http://joschu.net/docs/thesis.pdf)
+  * [Beating the World's Best at Super Smash Bros. with Deep Reinforcement Learning](https://arxiv.org/abs/1702.06230)
+  * [Learning To Reinforcement Learn](https://arxiv.org/pdf/1611.05763v3.pdf) - a DeepMind paper
+
+
  
