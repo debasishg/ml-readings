@@ -26,4 +26,5 @@
 * [Predicting prob distributions using NNs](https://engineering.taboola.com/predicting-probability-distributions/) - discusses an approach to modeling probability distributions using NNs. Uses the Mixed Density Model of Bishop.
 * [Neural variational inference and learning in belief networks](https://www.cs.toronto.edu/~amnih/papers/nvil.pdf) -  Mnih and Gregor
 * [Transformations and expectations of random variables](http://www.its.caltech.edu/~mshum/stats/lect2.pdf)
+* [Log Derivative Trick](http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/) by Shakir - a very useful trick used in section 2.2 of the original VAE paper (Autoencoding Variational Bayes). This blog post has a great explanation of this trick along with other places where it is used.
 
