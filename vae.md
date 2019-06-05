@@ -6,6 +6,8 @@
 * [VAE Intuition and Implementation](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/)
 * [From Auto Encoder to beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html) - excellent explanation in the section on VAE especially the math part
 * [A Beginner's Guide to Variational Methods: Mean-Field Approximation](https://blog.evjang.com/2016/08/variational-bayes.html) - an introductory post but contains a great explanation of *why we should use reversed KL as opposed to forward KL* for minimizing the Loss Function of a VAE
+* [Variational Autoencoders](https://ryanloweift6266.wordpress.com/2016/02/28/variational-autoencoders/) - This blog post is a usual introduction to the subject. But the best part I liked is the section *Problem Setup*, which is very intuitive.
+* [Notes on Variational Autoencoders](http://www.1-4-5.net/~dmm/ml/vae.pdf) - Very detailed introduction.
 
 ## Original
 
