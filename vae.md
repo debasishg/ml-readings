@@ -20,6 +20,7 @@
 
 * [Variational AutoEncoders and Extensions](http://dpkingma.com/wordpress/wp-content/uploads/2015/12/talk_nips_workshop_2015.pdf) - NIPS 2015 tutorial by Kingma and Welling
 * [Tutorial on Variational Encoders](https://arxiv.org/abs/1606.05908) - Carl Doersch
+* [A Tutorial on Variational AutoEncoders with implementation](https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/) - Has a nice Keras implementation
 
 ## Reparamaterization Trick for VAEs
 
