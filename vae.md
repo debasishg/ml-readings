@@ -41,4 +41,6 @@
 ## Additional Readings
 
 * [What is wrong with VAEs](http://akosiorek.github.io/ml/2018/03/14/what_is_wrong_with_vaes.html) - This post shows that in VAEs tighter evidence lower bounds (ELBOs) can be detrimental to the process of learning an inference network by reducing the signal-to-noise ratio of the gradient estimator. There is an accompanying paper [Tighter Variational Bounds are Not necessarily better](https://arxiv.org/abs/1802.04537) on this as well.
+* [Variational Autoencoders do not train complex generative models](http://dustintran.com/blog/variational-auto-encoders-do-not-train-complex-generative-models) - a good insightful post.
+* [Tutorial: Categorical Variational Autoencoders using Gumbel-Softmax](https://blog.evjang.com/2016/11/tutorial-categorical-variational.html) - VAEs for categorical distribution - discrete latent variables. The usual VAE is for continuous latent variables and Gaussian distribution. The latter is used for regression, the former for classification.
 
