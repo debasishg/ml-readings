@@ -16,6 +16,7 @@
 * [Lagging Inference Networks and Posterior Collapse in Variational Autoencoders](https://arxiv.org/abs/1901.05534) - He et. al. - VAEs are known to suffer from a thing called "posterior collapse" where the true posterior equals approximate posterior which equals the prior. In such situation representation learning stops. This paper is a great analysis of this collapse.
 * [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) - Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu
 * [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) - Ali Razavi, Aaron van den Oord, Oriol Vinyals
+* [Improving Variational Autoencoder with Deep Feature Consistent and Generative Adversarial Training](https://arxiv.org/abs/1906.01984) - Xianxu Hou, Ke Sun, Linlin Shen, Guoping Qiu
 
 ## Tutorials
 
