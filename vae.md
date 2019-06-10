@@ -17,6 +17,7 @@
 * [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) - Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu
 * [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) - Ali Razavi, Aaron van den Oord, Oriol Vinyals
 * [Improving Variational Autoencoder with Deep Feature Consistent and Generative Adversarial Training](https://arxiv.org/abs/1906.01984) - Xianxu Hou, Ke Sun, Linlin Shen, Guoping Qiu
+* [DIVA: Domain Invariant Variational Autoencoders](https://arxiv.org/abs/1905.10427) - Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling
 
 ## Tutorials
 
@@ -24,6 +25,8 @@
 * [Tutorial on Variational Encoders](https://arxiv.org/abs/1606.05908) - Carl Doersch
 * [A Tutorial on Variational AutoEncoders with implementation](https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/) - Has a nice Keras implementation
 * [What is a Variational AutoEncoder](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) - Explains VAE both from an NN perspective and from a probabilistic perspective. Very good explanations.
+* [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691) - Kingma and Welling - a monograph from the creators of VAE
+
 
 ## Reparamaterization Trick for VAEs
 
@@ -39,7 +42,7 @@
 * [Notes on Multivariate Gaussian](http://cs229.stanford.edu/section/gaussians.pdf)
 * [Variational Bayesian Inference with Stochastic Search](https://arxiv.org/abs/1206.6430) - John Paisley (UC Berkeley), David Blei (Princeton University), Michael Jordan (UC Berkeley)
 
-## Additional Readings
+## Additional Readings (Insights)
 
 * [What is wrong with VAEs](http://akosiorek.github.io/ml/2018/03/14/what_is_wrong_with_vaes.html) - This post shows that in VAEs tighter evidence lower bounds (ELBOs) can be detrimental to the process of learning an inference network by reducing the signal-to-noise ratio of the gradient estimator. There is an accompanying paper [Tighter Variational Bounds are Not necessarily better](https://arxiv.org/abs/1802.04537) on this as well.
 * [Variational Autoencoders do not train complex generative models](http://dustintran.com/blog/variational-auto-encoders-do-not-train-complex-generative-models) - a good insightful post.
