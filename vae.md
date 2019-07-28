@@ -12,6 +12,7 @@
 ## Original
 
 * [Autoencoding Variational Bayes](https://arxiv.org/abs/1312.6114) - Kingma and Welling
+* [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691v2) - Kingma and Welling : A detailed exposition, updated recently (July 2019, check the latest version on arxiv)
 * [Variational Lossy Autoencoder](https://arxiv.org/abs/1611.02731) - Xi Chen, Diederik P. Kingma, Tim Salimans, Yan Duan, Prafulla Dhariwal, John Schulman, Ilya Sutskever, Pieter Abbeel
 * [Lagging Inference Networks and Posterior Collapse in Variational Autoencoders](https://arxiv.org/abs/1901.05534) - He et. al. - VAEs are known to suffer from a thing called "posterior collapse" where the true posterior equals approximate posterior which equals the prior. In such situation representation learning stops. This paper is a great analysis of this collapse.
 * [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) - Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu
