@@ -1,5 +1,16 @@
 ## Deep Generative Models
 
+References for deep generative models:
+
+* [Generative Models-1 - Deep Learning and Reinforcement Learning Summer School, Montreal, 2017, Ian Goodfellow](http://videolectures.net/deeplearning2017_goodfellow_generative_models/)
+* [Generative Models-2 - Deep Learning and Reinforcement Learning Summer School, Montreal, 2017, Aaron Courville](http://videolectures.net/deeplearning2017_courville_generative_models/)
+* [Generative Models-1 - Deep Learning and Reinforcement Learning Summer School, Toronto, 2018, David Kristjanson Duvenaud](http://videolectures.net/DLRLsummerschool2018_duvenaud_generative_models1/)
+* [Generative Models-2 - Deep Learning and Reinforcement Learning Summer School, Toronto, 2018, Phillip Isola](http://videolectures.net/DLRLsummerschool2018_isola_generative_models2/)
+* [Unsupervised Learning and Generative Models - DeepMind course at UCL, 2018, Shakir Mohamed](https://youtu.be/H4VGSYGvJiA)
+* [CS 294-158, Deep Unsupervised Learning, Berkeley, Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+
+![Taxonomy](images/generative-models-taxonomy.png]
+
 ### Explicit Density Models
 
 Models that define an explicit density function p<sub>model</sub>(x;$\theta$). For these models, maximization of the likelihood is straightforward; we simply plug the model’s definition of the density function into the expression for the likelihood, and follow the gradient uphill.
