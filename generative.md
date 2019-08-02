@@ -1,5 +1,7 @@
 ## Deep Generative Models
 
+This document is meant to be a comprehensive collection of references for deep generative models. We start with a list of references for general ideas and then delve deep into each of the branches.
+
 References for deep generative models:
 
 * [Generative Models-1 - Deep Learning and Reinforcement Learning Summer School, Montreal, 2017, Ian Goodfellow](http://videolectures.net/deeplearning2017_goodfellow_generative_models/)
@@ -9,7 +11,9 @@ References for deep generative models:
 * [Unsupervised Learning and Generative Models - DeepMind course at UCL, 2018, Shakir Mohamed](https://youtu.be/H4VGSYGvJiA)
 * [CS 294-158, Deep Unsupervised Learning, Berkeley, Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
-![Taxonomy](images/generativeModelsTaxonomy.png]
+### General Taxonomy
+
+![Taxonomy](images/generativeModelsTaxonomy.png)
 
 ### Explicit Density Models
 
