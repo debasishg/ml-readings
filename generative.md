@@ -9,7 +9,7 @@ References for deep generative models:
 * [Unsupervised Learning and Generative Models - DeepMind course at UCL, 2018, Shakir Mohamed](https://youtu.be/H4VGSYGvJiA)
 * [CS 294-158, Deep Unsupervised Learning, Berkeley, Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
-![Taxonomy](images/generative-models-taxonomy.png]
+![Taxonomy](images/generativeModelsTaxonomy.png]
 
 ### Explicit Density Models
 
