@@ -26,7 +26,7 @@
 * [Tutorial on Variational Encoders](https://arxiv.org/abs/1606.05908) - Carl Doersch
 * [A Tutorial on Variational AutoEncoders with implementation](https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/) - Has a nice Keras implementation
 * [What is a Variational AutoEncoder](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) - Explains VAE both from an NN perspective and from a probabilistic perspective. Very good explanations.
-* [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691) - Kingma and Welling - a monograph from the creators of VAE
+* [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691) - Kingma and Welling - a monograph from the creators of VAE. **A long one and possibly the most detailed exposition**.
 
 
 ## Reparamaterization Trick for VAEs
@@ -54,3 +54,13 @@
 * [Implementing Variational Autoencoders in Keras: Beyond the Quickstart Tutorial](http://louistiao.me/posts/implementing-variational-autoencoders-in-keras-beyond-the-quickstart-tutorial/)
 * [From expectation maximization to stochastic variational inference](https://nbviewer.jupyter.org/github/krasserm/bayesian-machine-learning/blob/master/variational_autoencoder.ipynb)
 * [Deep feature consistent variational auto-encoder](http://krasserm.github.io/2018/07/27/dfc-vae/)
+
+## Variational Inference and Expectation Maximization
+
+* [The Variational Approximation for Bayesian Inference](http://www.cs.uoi.gr/~arly/papers/SPM08.pdf) - by Dimitris G. Tzikas, Aristidis C. Likas, and Nikolaos P. Galatsanos. This paper connects Bayesian Inference, EM and Variational Inference
+* [Expectation Maximization and Variational Inference](https://chrischoy.github.io/research/Expectation-Maximization-and-Variational-Inference/) - provides some of the derivations that Tzikas et. al. skip in their article.
+* [A View of the EM Algorithm that Justifies Incremental Parse and other Variants](http://www.cs.toronto.edu/~fritz/absps/emk.pdf) - a classic by Radford Neal and Hinton
+* [The EM Algorithm](http://cs229.stanford.edu/notes/cs229-notes8.pdf) - Stanford CS229 Study Notes
+* [Motivation of Expectation Maximization Algorithm](https://stats.stackexchange.com/questions/64962/motivation-of-expectation-maximization-algorithm)
+* [From expectation maximization to stochastic variational inference](http://krasserm.github.io/2018/04/03/variational-inference/)
+* [Expectation Maximization](https://zhiyzuo.github.io/EM/)
