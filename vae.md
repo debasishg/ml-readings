@@ -42,6 +42,7 @@
 * [Log Derivative Trick](http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/) by Shakir - a very useful trick used in section 2.2 of the original VAE paper (Autoencoding Variational Bayes). This blog post has a great explanation of this trick along with other places where it is used.
 * [Notes on Multivariate Gaussian](http://cs229.stanford.edu/section/gaussians.pdf)
 * [Variational Bayesian Inference with Stochastic Search](https://arxiv.org/abs/1206.6430) - John Paisley (UC Berkeley), David Blei (Princeton University), Michael Jordan (UC Berkeley)
+* [Advances in Variational Inference](https://arxiv.org/pdf/1711.05597.pdf) - Cheng Zhang et. al. - This is a very lucid account of advances in VI starting with mean field inference and why we need amortized inference. Got the reference from this Quora thread [What is amortized variational inference](https://www.quora.com/What-is-amortized-variational-inference), also a very good explanation
 
 ## Additional Readings (Insights)
 
