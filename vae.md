@@ -53,6 +53,7 @@
 ## Implementation
 
 * [Implementing Variational Autoencoders in Keras: Beyond the Quickstart Tutorial](http://louistiao.me/posts/implementing-variational-autoencoders-in-keras-beyond-the-quickstart-tutorial/)
+* [Comprehensive Introduction to Autoencoders](https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368) - The best part of this article is the implementation. Uses CNN for the deep learning part.
 * [From expectation maximization to stochastic variational inference](https://nbviewer.jupyter.org/github/krasserm/bayesian-machine-learning/blob/master/variational_autoencoder.ipynb)
 * [Deep feature consistent variational auto-encoder](http://krasserm.github.io/2018/07/27/dfc-vae/)
 
