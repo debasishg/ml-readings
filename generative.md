@@ -59,50 +59,50 @@ Here's another way to a general taxonomy of deep generative models based on [1].
 
   * **Tractable Density Models** - Models that define an *explicit density function* that is computationally tractable. There are currently two popular approaches to tractable explicit density models: 
 
-		1. **Fully Visible Belief Networks** - FVBNs are models that use the chain rule of probability to decompose a probability distribution over an n-dimensional vector x into a product of one-dimensional probability distributions:
-		  
-			  $p_{\text { model }}(\boldsymbol{x})=\prod_{i=1}^{n} p_{\text { model }}\left(x_{i} | x_{1}, \ldots, x_{i-1}\right)$  
-		
-			Here are some implementations of variants of FVBN:
-		  
-			* 	[NADE](https://arxiv.org/abs/1605.02226)
-			* 	[MADE](https://arxiv.org/abs/1502.03509)
-			* 	[PixelRNN](https://arxiv.org/abs/1601.06759) / [PixelCNN](https://arxiv.org/abs/1606.05328)
-			* 	[WaveNet](https://arxiv.org/abs/1609.03499)
-		
-		These are also models with *auto-regressive flows*.
-		
-		References for Auto-regressive Flows:
-		
-		* [Autoregressive Models in Deep Learning — A Brief Survey](https://eigenfoo.xyz/deep-autoregressive-models/)
-		* [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
-		* [Notes on autoregressive models](https://deepgenerativemodels.github.io/notes/autoregressive/)
-		* [Autoregressive Autoencoders (MADE)](http://bjlkeng.github.io/posts/autoregressive-autoencoders/)
-		* [Deep AutoRegressive Networks](https://arxiv.org/abs/1310.8499)
+	1. **Fully Visible Belief Networks** - FVBNs are models that use the chain rule of probability to decompose a probability distribution over an n-dimensional vector x into a product of one-dimensional probability distributions:
 	  
-		2. **Nonlinear Independent Components Analysis** - models with explicit density functions is based on defining continuous, nonlinear transformations between two different spaces. For example, if there is a vector of latent variables z and a continuous, differentiable, invertible transformation g such that g(z) yields a sample from the model in x space, then
+		  $p_{\text { model }}(\boldsymbol{x})=\prod_{i=1}^{n} p_{\text { model }}\left(x_{i} | x_{1}, \ldots, x_{i-1}\right)$  
+	
+		Here are some implementations of variants of FVBN:
+	  
+		* 	[NADE](https://arxiv.org/abs/1605.02226)
+		* 	[MADE](https://arxiv.org/abs/1502.03509)
+		* 	[PixelRNN](https://arxiv.org/abs/1601.06759) / [PixelCNN](https://arxiv.org/abs/1606.05328)
+		* 	[WaveNet](https://arxiv.org/abs/1609.03499)
+	
+	These are also models with *auto-regressive flows*.
+	
+	*References for Auto-regressive Flows:*
+	
+	* [Autoregressive Models in Deep Learning — A Brief Survey](https://eigenfoo.xyz/deep-autoregressive-models/)
+	* [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
+	* [Notes on autoregressive models](https://deepgenerativemodels.github.io/notes/autoregressive/)
+	* [Autoregressive Autoencoders (MADE)](http://bjlkeng.github.io/posts/autoregressive-autoencoders/)
+	* [Deep AutoRegressive Networks](https://arxiv.org/abs/1310.8499)
+  
+	2. **Nonlinear Independent Components Analysis** - models with explicit density functions is based on defining continuous, nonlinear transformations between two different spaces. For example, if there is a vector of latent variables z and a continuous, differentiable, invertible transformation g such that g(z) yields a sample from the model in x space, then
+	
+		$p_{x}(\boldsymbol{x})=p_{z}\left(g^{-1}(\boldsymbol{x})\right)\left|\operatorname{det}\left(\frac{\partial g^{-1}(\boldsymbol{x})}{\partial \boldsymbol{x}}\right)\right|$
+	
+		The density p<sub>x</sub> is tractable if the density p<sub>z</sub> is tractable and the determinant of the Jacobian of g<sup>−1</sup> is tractable. In other words, a simple distribution over z combined with a transformation g that warps space in complicated ways can yield a complicated distribution over x, and if g is carefully designed, the density is tractable too.
 		
-			$p_{x}(\boldsymbol{x})=p_{z}\left(g^{-1}(\boldsymbol{x})\right)\left|\operatorname{det}\left(\frac{\partial g^{-1}(\boldsymbol{x})}{\partial \boldsymbol{x}}\right)\right|$
+		Here are some implementations:
 		
-			The density p<sub>x</sub> is tractable if the density p<sub>z</sub> is tractable and the determinant of the Jacobian of g<sup>−1</sup> is tractable. In other words, a simple distribution over z combined with a transformation g that warps space in complicated ways can yield a complicated distribution over x, and if g is carefully designed, the density is tractable too.
-			
-			Here are some implementations:
-			
-			* [Real NVP](https://arxiv.org/abs/1605.08803)
-			* [NICE](https://arxiv.org/abs/1410.8516)
-			* [Glow](https://arxiv.org/abs/1807.03039)
-		
-		These are also models with *normalizing flows*.
-		
-		References for Normalizing Flows:
-		
-		* [Flow based deep generative models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
-		* [Normalizing Flow Models](https://deepgenerativemodels.github.io/notes/flow/)
-		* [Normalizing flows](http://akosiorek.github.io/ml/2018/04/03/norm_flows.html)
-		* [Normalizing flows Tutorial: Part 1 - Distributions and Determinants](https://blog.evjang.com/2018/01/nf1.html)
-		* [Normalizing flows Tutorial: Part 2 - Modern Normalizing Flows](https://blog.evjang.com/2018/01/nf2.html)
-		* [Good explanation and derivation of change of variables of a probability density function](https://stats.stackexchange.com/questions/239588/derivation-of-change-of-variables-of-a-probability-density-function)
-		* [Variational inference with normalizing flows](https://arxiv.org/abs/1505.05770)
+		* [Real NVP](https://arxiv.org/abs/1605.08803)
+		* [NICE](https://arxiv.org/abs/1410.8516)
+		* [Glow](https://arxiv.org/abs/1807.03039)
+	
+	These are also models with *normalizing flows*.
+	
+	*References for Normalizing Flows:*
+	
+	* [Flow based deep generative models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
+	* [Normalizing Flow Models](https://deepgenerativemodels.github.io/notes/flow/)
+	* [Normalizing flows](http://akosiorek.github.io/ml/2018/04/03/norm_flows.html)
+	* [Normalizing flows Tutorial: Part 1 - Distributions and Determinants](https://blog.evjang.com/2018/01/nf1.html)
+	* [Normalizing flows Tutorial: Part 2 - Modern Normalizing Flows](https://blog.evjang.com/2018/01/nf2.html)
+	* [Good explanation and derivation of change of variables of a probability density function](https://stats.stackexchange.com/questions/239588/derivation-of-change-of-variables-of-a-probability-density-function)
+	* [Variational inference with normalizing flows](https://arxiv.org/abs/1505.05770)
 
 
 	* **Approximate Density Models** - Models that provide an explicit density function but use one that is intractable, requiring the use of approximations to maximize the likelihood. These fall roughly into two categories: those using deterministic approximations, which almost always means variational methods, and those using stochastic approximations, meaning Markov chain Monte Carlo methods.
