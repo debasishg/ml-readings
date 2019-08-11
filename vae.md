@@ -66,3 +66,8 @@
 * [Motivation of Expectation Maximization Algorithm](https://stats.stackexchange.com/questions/64962/motivation-of-expectation-maximization-algorithm)
 * [From expectation maximization to stochastic variational inference](http://krasserm.github.io/2018/04/03/variational-inference/)
 * [Expectation Maximization](https://zhiyzuo.github.io/EM/)
+* [David Blei's notes on Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+* A few Quora threads
+  * [When should I prefer variational inference over MCMC for Bayesian analysis?](https://www.quora.com/When-should-I-prefer-variational-inference-over-MCMC-for-Bayesian-analysis)
+  * [What is amortized variational inference?](https://www.quora.com/What-is-amortized-variational-inference)
+  * [Variational Inference: Why do we use KL divergence instead of Jensen–Shannon divergence?](https://www.quora.com/Variational-Inference-Why-do-we-use-KL-divergence-instead-of-Jensen%E2%80%93Shannon-divergence)

@@ -55,7 +55,9 @@ Here's another way to a general taxonomy of deep generative models based on [1].
 ![Taxonomy](images/generativeModelsTaxonomy.png)
 
 
-* **Explicit Density Models** - Models that define an explicit density function p<sub>model</sub>(x;$\theta$). For these models, maximization of the likelihood is straightforward; we simply plug the model’s definition of the density function into the expression for the likelihood, and follow the gradient uphill. Explicit density models can be of the following types:
+* **Explicit Density Models** - Models that define an explicit density function p<sub>model</sub>(x;$\theta$). For these models, maximization of the likelihood is straightforward; we simply plug the model’s definition of the density function into the expression for the likelihood, and follow the gradient uphill. 
+
+Explicit density models can be of the following types:
 
   * **Tractable Density Models** - Models that define an *explicit density function* that is computationally tractable. There are currently two popular approaches to tractable explicit density models: 
 
