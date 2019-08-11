@@ -117,18 +117,31 @@ Here's another way to a general taxonomy of deep generative models based on [1].
 			
 			* 	Variational Autoencoder ([VAE](https://arxiv.org/abs/1312.6114))
 		
-		A detailed reference list for VAEs can be found [here](https://github.com/debasishg/ml-readings/blob/master/vae.md).
+			A detailed reference list for VAEs can be found [here](https://github.com/debasishg/ml-readings/blob/master/vae.md).
 		
 		2. **Markov Chain Approximations** - Models that make use of some form of stochastic approximation, at the very least in the form of using a small number of randomly selected training examples to form a minibatch used to minimize the expected loss.
 		
 			Implementation:
 			
 			* Boltzmann Machines
+			
+			*References:*
+			
+			* [G. E., Osindero, S., and Teh, Y. (2006). A fast learning algorithm for deep belief nets. Neural Computation, 18, 1527–1554](https://dl.acm.org/citation.cfm?id=1161605)
+			* [Hinton, G. E. (2007). Learning multiple layers of representation. Trends in cognitive sciences, 11(10), 428–434](https://www.cs.toronto.edu/~hinton/absps/tics.pdf)
 	
 	Some models use both variational and Markov chain approximations. For example, deep Boltzmann machines make use of both types of approximation.
 
 * **Implicit Density Models** - Some models can be trained without even needing to explicitly define a density functions. These models instead offer a way to train the model while interacting only indirectly with p<sub>model</sub>, usually by sampling from it. These constitute the implicit density models.
 
-	* **Markov Chain based Models** - Some of these implicit models based on drawing samples from p<sub>model</sub> define a Markov chain transition operator that must be run several times to obtain a sample from the model. From this family, the primary example is the Generative Stochastic Network .
+	* **Markov Chain based Models** - Some of these implicit models based on drawing samples from p<sub>model</sub> define a Markov chain transition operator that must be run several times to obtain a sample from the model. From this family, the primary example is the Generative Stochastic Network.
+		
+		*References:*
+		
+		* [Bengio, Y., Thibodeau-Laufer, E., Alain, G., and Yosinski, J. (2014). Deep generative stochastic networks trainable by backprop. In ICML’2014](https://arxiv.org/abs/1306.1091)
 	
 	* **Direct Models** - Family of implicit models that can generate a sample in a single step. At the time of their introduction, GANs were the only notable member of this family, but since then they have been joined by additional models based on kernelized moment matching.
+
+		*References:*
+		
+		* [Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. (2014). Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
