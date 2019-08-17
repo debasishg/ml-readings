@@ -57,10 +57,24 @@
 * [From expectation maximization to stochastic variational inference](https://nbviewer.jupyter.org/github/krasserm/bayesian-machine-learning/blob/master/variational_autoencoder.ipynb)
 * [Deep feature consistent variational auto-encoder](http://krasserm.github.io/2018/07/27/dfc-vae/)
 
-## Variational Inference and Expectation Maximization
+## Probabilistic Models, Gradient Estimation and Inference
 
-* [The Variational Approximation for Bayesian Inference](http://www.cs.uoi.gr/~arly/papers/SPM08.pdf) - by Dimitris G. Tzikas, Aristidis C. Likas, and Nikolaos P. Galatsanos. This paper connects Bayesian Inference, EM and Variational Inference
-* [Expectation Maximization and Variational Inference](https://chrischoy.github.io/research/Expectation-Maximization-and-Variational-Inference/) - provides some of the derivations that Tzikas et. al. skip in their article.
+### Probabilistic Models and Deep Learning
+
+* [Probabilistic Models with Deep Neural Networks](https://arxiv.org/abs/1908.03442) by Andrés R. Masegosa, Rafael Cabañas, Helge Langseth, Thomas D. Nielsen, Antonio Salmerón - Great summary of how DNNs got married into the field of probabilistic models
+
+### Gradient Estimation
+
+* [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652) by Shakir Mohamed, Mihaela Rosca, Michael Figurnov, Andriy Mnih - Great survey on all comprehensive approaches
+* [Machine Learning Trick of the Day (4): Reparameterisation Tricks: Pathwise Estimator](http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/)
+* [Machine Learning Trick of the Day (5): Log Derivative Trick: ScoreFunction Estimator](http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/)
+* [REINFORCE vs Reparameterization Trick](http://stillbreeze.github.io/REINFORCE-vs-Reparameterization-trick/)
+
+### Variational Inference and Expectation Maximization
+
+* [The Variational Approximation for Bayesian Inference](http://www.cs.uoi.gr/~arly/papers/SPM08.pdf) - by Dimitris G. Tzikas, Aristidis C. Likas, and Nikolaos P. Galatsanos. This paper connects Bayesian Inference, EM and Variational EM. The paper assumes a few derivations which are well explained in the following 2 blog posts, along with some examples.
+  * [Expectation Maximization and Variational Inference](https://chrischoy.github.io/research/Expectation-Maximization-and-Variational-Inference/) - provides some of the derivations that Tzikas et. al. skip in their article.
+  * [Expectation Maximization and Variational Inference (Part 2)](https://chrischoy.github.io/research/Expectation-Maximization-and-Variational-Inference-2/)
 * [A View of the EM Algorithm that Justifies Incremental Parse and other Variants](http://www.cs.toronto.edu/~fritz/absps/emk.pdf) - a classic by Radford Neal and Hinton
 * [The EM Algorithm](http://cs229.stanford.edu/notes/cs229-notes8.pdf) - Stanford CS229 Study Notes
 * [Motivation of Expectation Maximization Algorithm](https://stats.stackexchange.com/questions/64962/motivation-of-expectation-maximization-algorithm)
