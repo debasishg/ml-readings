@@ -19,6 +19,7 @@
 * [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) - Ali Razavi, Aaron van den Oord, Oriol Vinyals
 * [Improving Variational Autoencoder with Deep Feature Consistent and Generative Adversarial Training](https://arxiv.org/abs/1906.01984) - Xianxu Hou, Ke Sun, Linlin Shen, Guoping Qiu
 * [DIVA: Domain Invariant Variational Autoencoders](https://arxiv.org/abs/1905.10427) - Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling
+* [InfoVAE: Information Maximizing Variational Autoencoders](https://arxiv.org/abs/1706.02262)
 
 ## Tutorials
 
@@ -56,6 +57,10 @@
 * [Comprehensive Introduction to Autoencoders](https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368) - The best part of this article is the implementation. Uses CNN for the deep learning part.
 * [From expectation maximization to stochastic variational inference](https://nbviewer.jupyter.org/github/krasserm/bayesian-machine-learning/blob/master/variational_autoencoder.ipynb)
 * [Deep feature consistent variational auto-encoder](http://krasserm.github.io/2018/07/27/dfc-vae/)
+* [Variational Autoencoders for Anomaly Detection](https://rstudio-pubs-static.s3.amazonaws.com/308801_ca2c3b7a649b4fd1838402ac0cb921e0.html#/)
+* [Variational Autoencoder based Anomaly Detection based on Reconstruction Probability](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf)
+* [Tensorflow Implementation of MMD Variational Autoencoder](https://github.com/ShengjiaZhao/MMD-Variational-Autoencoder)
+* [Anomaly Detection on Network Intrusion Data](https://github.com/skeydan/anomaly_detection_VAE)
 
 ## Probabilistic Models, Gradient Estimation and Inference
 
