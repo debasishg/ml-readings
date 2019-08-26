@@ -50,17 +50,30 @@
 * [What is wrong with VAEs](http://akosiorek.github.io/ml/2018/03/14/what_is_wrong_with_vaes.html) - This post shows that in VAEs tighter evidence lower bounds (ELBOs) can be detrimental to the process of learning an inference network by reducing the signal-to-noise ratio of the gradient estimator. There is an accompanying paper [Tighter Variational Bounds are Not necessarily better](https://arxiv.org/abs/1802.04537) on this as well.
 * [Variational Autoencoders do not train complex generative models](http://dustintran.com/blog/variational-auto-encoders-do-not-train-complex-generative-models) - a good insightful post.
 * [Tutorial: Categorical Variational Autoencoders using Gumbel-Softmax](https://blog.evjang.com/2016/11/tutorial-categorical-variational.html) - VAEs for categorical distribution - discrete latent variables. The usual VAE is for continuous latent variables and Gaussian distribution. The latter is used for regression, the former for classification.
+* Interesting threads
+  * [Variational autoencoder: Why reconstruction term is same to square loss?](https://stats.stackexchange.com/questions/347378/variational-autoencoder-why-reconstruction-term-is-same-to-square-loss)
 
 ## Implementation
+
+### VAE Implementation
 
 * [Implementing Variational Autoencoders in Keras: Beyond the Quickstart Tutorial](http://louistiao.me/posts/implementing-variational-autoencoders-in-keras-beyond-the-quickstart-tutorial/)
 * [Comprehensive Introduction to Autoencoders](https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368) - The best part of this article is the implementation. Uses CNN for the deep learning part.
 * [From expectation maximization to stochastic variational inference](https://nbviewer.jupyter.org/github/krasserm/bayesian-machine-learning/blob/master/variational_autoencoder.ipynb)
 * [Deep feature consistent variational auto-encoder](http://krasserm.github.io/2018/07/27/dfc-vae/)
+* [Tensorflow Implementation of MMD Variational Autoencoder](https://github.com/ShengjiaZhao/MMD-Variational-Autoencoder)
+* [Variational Autoencoders with Tensorflow Probability Layers](https://medium.com/tensorflow/variational-autoencoders-with-tensorflow-probability-layers-d06c658931b7)
+  * [Implementation on GitHub](https://github.com/tensorflow/probability/blob/master/tensorflow_probability/examples/vae.py) 
+
+
+### Anomaly Detection using VAE
+
 * [Variational Autoencoders for Anomaly Detection](https://rstudio-pubs-static.s3.amazonaws.com/308801_ca2c3b7a649b4fd1838402ac0cb921e0.html#/)
 * [Variational Autoencoder based Anomaly Detection based on Reconstruction Probability](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf)
-* [Tensorflow Implementation of MMD Variational Autoencoder](https://github.com/ShengjiaZhao/MMD-Variational-Autoencoder)
+* [Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](https://arxiv.org/abs/1802.03903) - Haowen Xu et al
+  * [Implementation on GitHub](https://github.com/haowen-xu/donut)
 * [Anomaly Detection on Network Intrusion Data](https://github.com/skeydan/anomaly_detection_VAE)
+
 
 ## Probabilistic Models, Gradient Estimation and Inference
 
