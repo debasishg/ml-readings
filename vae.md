@@ -52,6 +52,7 @@
 * [Tutorial: Categorical Variational Autoencoders using Gumbel-Softmax](https://blog.evjang.com/2016/11/tutorial-categorical-variational.html) - VAEs for categorical distribution - discrete latent variables. The usual VAE is for continuous latent variables and Gaussian distribution. The latter is used for regression, the former for classification.
 * Interesting threads
   * [Variational autoencoder: Why reconstruction term is same to square loss?](https://stats.stackexchange.com/questions/347378/variational-autoencoder-why-reconstruction-term-is-same-to-square-loss)
+  * [What are the pros and cons of Generative Adversarial Networks vs Variational Autoencoders?](https://www.quora.com/What-are-the-pros-and-cons-of-Generative-Adversarial-Networks-vs-Variational-Autoencoders)
 
 ## Implementation
 
