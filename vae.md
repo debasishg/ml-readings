@@ -28,6 +28,7 @@
 * [A Tutorial on Variational AutoEncoders with implementation](https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/) - Has a nice Keras implementation
 * [What is a Variational AutoEncoder](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) - Explains VAE both from an NN perspective and from a probabilistic perspective. Very good explanations.
 * [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691) - Kingma and Welling - a monograph from the creators of VAE. **A long one and possibly the most detailed exposition**.
+* [Variational Inference for Machine Learning](https://www.shakirm.com/papers/VITutorial.pdf) - a tutorial by Shakir Mohamed
 
 
 ## Reparamaterization Trick for VAEs
@@ -53,6 +54,11 @@
 * Interesting threads
   * [Variational autoencoder: Why reconstruction term is same to square loss?](https://stats.stackexchange.com/questions/347378/variational-autoencoder-why-reconstruction-term-is-same-to-square-loss)
   * [What are the pros and cons of Generative Adversarial Networks vs Variational Autoencoders?](https://www.quora.com/What-are-the-pros-and-cons-of-Generative-Adversarial-Networks-vs-Variational-Autoencoders)
+
+## Variational Inference and Neural Networks
+
+* [Variational Inference and Deep Learning - a New Synthesis](https://pure.uva.nl/ws/files/17891313/Thesis.pdf) - Thesis of D Kingma
+* [Practical Variational Inference for Neural Networks](https://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks.pdf) - by Alex Graves
 
 ## Implementation
 
