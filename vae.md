@@ -90,7 +90,7 @@
 
 ### Gradient Estimation
 
-* [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652) by Shakir Mohamed, Mihaela Rosca, Michael Figurnov, Andriy Mnih - Great survey on all comprehensive approaches
+* [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652) by Shakir Mohamed, Mihaela Rosca, Michael Figurnov, Andriy Mnih - Great survey on all comprehensive approaches. [Implementation](https://github.com/deepmind/mc_gradients)
 * [Machine Learning Trick of the Day (4): Reparameterisation Tricks: Pathwise Estimator](http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/)
 * [Machine Learning Trick of the Day (5): Log Derivative Trick: ScoreFunction Estimator](http://blog.shakirm.com/2015/11/machine-learning-trick-of-the-day-5-log-derivative-trick/)
 * [REINFORCE vs Reparameterization Trick](http://stillbreeze.github.io/REINFORCE-vs-Reparameterization-trick/)
