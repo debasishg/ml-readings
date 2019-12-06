@@ -105,6 +105,8 @@ Explicit density models can be of the following types:
 	* [Normalizing flows Tutorial: Part 2 - Modern Normalizing Flows](https://blog.evjang.com/2018/01/nf2.html)
 	* [Good explanation and derivation of change of variables of a probability density function](https://stats.stackexchange.com/questions/239588/derivation-of-change-of-variables-of-a-probability-density-function)
 	* [Variational inference with normalizing flows](https://arxiv.org/abs/1505.05770)
+	* [What are Normalizing Flows - a short tutorial](https://youtu.be/i7LjDvsLWCg)
+	* [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762)
 
 
 	* **Approximate Density Models** - Models that provide an explicit density function but use one that is intractable, requiring the use of approximations to maximize the likelihood. These fall roughly into two categories: those using deterministic approximations, which almost always means variational methods, and those using stochastic approximations, meaning Markov chain Monte Carlo methods.
