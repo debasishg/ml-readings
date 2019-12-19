@@ -60,6 +60,13 @@
 * [Variational Inference and Deep Learning - a New Synthesis](https://pure.uva.nl/ws/files/17891313/Thesis.pdf) - Thesis of D Kingma
 * [Practical Variational Inference for Neural Networks](https://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks.pdf) - by Alex Graves
 
+## Improving Variational Inference and VAE
+
+* [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770) by Danilo Jimenez Rezende, Shakir Mohamed
+* [Improved Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934) by Diederik P. Kingma, Tim Salimans, Rafal Jozefowicz, Xi Chen, Ilya Sutskever, Max Welling
+* [Importance Weighted Autoencoders](https://arxiv.org/abs/1509.00519) by Yuri Burda, Roger Grosse, Ruslan Salakhutdinov
+* [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762) by George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Balaji Lakshminarayanan
+
 ## Implementation
 
 ### VAE Implementation
