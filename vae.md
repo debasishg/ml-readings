@@ -78,6 +78,7 @@
 * [Tensorflow Implementation of MMD Variational Autoencoder](https://github.com/ShengjiaZhao/MMD-Variational-Autoencoder)
 * [Variational Autoencoders with Tensorflow Probability Layers](https://medium.com/tensorflow/variational-autoencoders-with-tensorflow-probability-layers-d06c658931b7)
   * [Implementation on GitHub](https://github.com/tensorflow/probability/blob/master/tensorflow_probability/examples/vae.py) 
+* [Variational autoencoders for Lego faces](https://www.echevarria.io/blog/lego-face-vae/index.html)
 
 
 ### Anomaly Detection using VAE
