@@ -29,6 +29,7 @@
 * [What is a Variational AutoEncoder](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) - Explains VAE both from an NN perspective and from a probabilistic perspective. Very good explanations.
 * [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691) - Kingma and Welling - a monograph from the creators of VAE. **A long one and possibly the most detailed exposition**.
 * [Variational Inference for Machine Learning](https://www.shakirm.com/papers/VITutorial.pdf) - a tutorial by Shakir Mohamed
+* [A Tutorial on VAEs: From Bayes' Rule to Lossless Compression](https://arxiv.org/abs/2006.10273) - by Ronald Yu
 
 
 ## Reparamaterization Trick for VAEs
