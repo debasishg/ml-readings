@@ -20,6 +20,10 @@
 * [Improving Variational Autoencoder with Deep Feature Consistent and Generative Adversarial Training](https://arxiv.org/abs/1906.01984) - Xianxu Hou, Ke Sun, Linlin Shen, Guoping Qiu
 * [DIVA: Domain Invariant Variational Autoencoders](https://arxiv.org/abs/1905.10427) - Maximilian Ilse, Jakub M. Tomczak, Christos Louizos, Max Welling
 * [InfoVAE: Information Maximizing Variational Autoencoders](https://arxiv.org/abs/1706.02262)
+* [NVAE: A Deep Hierarchical Variational Autoencoder](https://arxiv.org/abs/2007.03898) - Arash Vahdat, Jan Kautz - New stuff from NVIDIA : an [youtube video explaining this](https://youtu.be/x6T1zMSE4Ts) and a [Twitter thread](https://twitter.com/ArashVahdat/status/1281036985981825024) from one of the authors
+* [SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows](https://arxiv.org/abs/2007.02731) - Didrik Nielsen, Priyank Jaini, Emiel Hoogeboom, Ole Winther, Max Welling - Introduces SurVAE Flows: A modular framework of composable transformations that encompasses VAEs and normalizing flows.
+* [VAE-SNE: a deep generative model for simultaneous dimensionality reduction and clustering](https://www.biorxiv.org/content/10.1101/2020.07.17.207993v1) -  Jacob M. Graving and Iain D. Couzin
+
 
 ## Tutorials
 
