@@ -8,6 +8,7 @@
 * [A Beginner's Guide to Variational Methods: Mean-Field Approximation](https://blog.evjang.com/2016/08/variational-bayes.html) - an introductory post but contains a great explanation of *why we should use reversed KL as opposed to forward KL* for minimizing the Loss Function of a VAE
 * [Variational Autoencoders](https://ryanloweift6266.wordpress.com/2016/02/28/variational-autoencoders/) - This blog post is a usual introduction to the subject. But the best part I liked is the section *Problem Setup*, which is very intuitive.
 * [Notes on Variational Autoencoders](http://www.1-4-5.net/~dmm/ml/vae.pdf) - Very detailed introduction.
+* [Introduction to deep generative modeling: Hierarchical VAEs](https://jmtomczak.github.io/blog/9/9_hierarchical_lvm_p1.html) - blog post by Jakub Tomczak (includes an implementation of hierarchical VAEs)
 
 ## Original
 
