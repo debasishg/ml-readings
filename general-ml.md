@@ -78,6 +78,7 @@
   * [Demystifying LSTM neural networks](http://blog.terminal.com/demistifying-long-short-term-memory-lstm-recurrent-neural-networks/)
   * [Crash course on Learning Theory Part 1](https://blogs.princeton.edu/imabandit/2015/10/13/crash-course-on-learning-theory-part-1/)
   * [Crash course on Learning Theory Part 2](https://blogs.princeton.edu/imabandit/2015/10/22/crash-course-on-learning-theory-part-2/)
+  * [Machine Learning for Everyone: In simple words. With real-world examples. Yes, again](https://vas3k.com/blog/machine_learning/)
 
 8. *Interesting courses and tutorials* 
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) at Stanford by Andrej Karpathy
